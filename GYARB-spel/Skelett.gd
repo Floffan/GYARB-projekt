@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-export var speed = 700
+var speed = 700
 
 
 var velocity = Vector2()
@@ -8,6 +8,10 @@ var direction = ["direction i x-led", "direction i y-led"]
 
 var only_moving_x = false
 
+func _ready() -> void:
+	pass
+	#$polygons_sidan.position.x = -45
+	#$Skelett_sidan.position.x = -45
 
 # ÄNDRING - byt kanske ut only_moving_x systemet mot only_moving_y, så att när karaktären går sydost så spelas höger-animationen och inte nedåt (den är snyggare lol)
 func get_input():
@@ -101,7 +105,7 @@ func _assign_animation(direction):
 	"""
 	Höger/Vänster-hantering [Uppåt]
 	"""
-	if direction[1] == "uo" and direction[0] == "right" and not only_moving_x: 
+	if direction[1] == "up" and direction[0] == "right" and not only_moving_x: 
 		print("går ner")
 		$polygons_sidan.scale.x = 0
 		$Skelett_sidan.scale.x = 0
@@ -125,6 +129,8 @@ func _assign_animation(direction):
 	"""
 	if velocity.y == 0 and not only_moving_x:
 		animation = "Stå-animation_framifrån"
+	#else:
+		#animation = "Stå-animation_framifrån"
 		
 	if $AnimationPlayer.assigned_animation != animation:
 		$AnimationPlayer.play(animation)

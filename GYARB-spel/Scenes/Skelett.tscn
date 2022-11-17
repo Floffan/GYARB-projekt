@@ -471,7 +471,7 @@ tracks/3/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 0.0, -6.65489, 0.0, -32.553, 0.0 ]
+"values": [ 0.0, -27.726, 0.0, -61.2986, 0.0 ]
 }
 tracks/4/type = "value"
 tracks/4/path = NodePath("Skelett_fram/höft/bröst:position")
@@ -543,7 +543,7 @@ tracks/9/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 0.0, 23.0172, 0.0, 20.3391, 0.0 ]
+"values": [ 0.0, 56.5771, 0.0, 35.6428, 0.0 ]
 }
 tracks/10/type = "value"
 tracks/10/path = NodePath("Skelett_fram/höft/bröst/arm_v/underarm_v/hand_v:position")
@@ -567,7 +567,7 @@ tracks/11/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 90.0, 90.0, 90.0, 90.0, 90.0 ]
+"values": [ 90.0, 66.6709, 90.0, 90.0, 90.0 ]
 }
 tracks/12/type = "value"
 tracks/12/path = NodePath("Skelett_fram/höft/lår_h/vad_h:position")
@@ -591,7 +591,7 @@ tracks/13/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ -2.63427, 17.411, -2.63427, 0.0221472, -2.63427 ]
+"values": [ -2.63427, 39.7225, -2.63427, 0.0221472, -2.63427 ]
 }
 tracks/14/type = "value"
 tracks/14/path = NodePath("Skelett_fram/höft/lår_v:position")
@@ -615,7 +615,7 @@ tracks/15/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 6.05701, 8.41033, 6.05701, 15.2692, 6.05701 ]
+"values": [ 6.05701, 8.41033, 6.05701, 35.5383, 6.05701 ]
 }
 tracks/16/type = "value"
 tracks/16/path = NodePath("Skelett_fram/höft/lår_v/vad_v:position")
@@ -639,7 +639,7 @@ tracks/17/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ -9.93595, -6.77618, -9.93595, -28.181, -9.93595 ]
+"values": [ -9.93595, -6.77618, -9.93595, -48.5035, -9.93595 ]
 }
 tracks/18/type = "value"
 tracks/18/path = NodePath("Skelett_fram/höft/bröst/huvud:position")
@@ -687,7 +687,7 @@ tracks/21/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 0.0, -0.169299, 0.0, -12.019, 0.0 ]
+"values": [ 0.0, -1.25798, 0.0, -24.7503, 0.0 ]
 }
 tracks/22/type = "value"
 tracks/22/path = NodePath("Skelett_fram/höft/bröst/arm_v:position")
@@ -711,7 +711,7 @@ tracks/23/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 0.0, 7.90668, 0.0, 5.87475, 0.0 ]
+"values": [ 0.0, 21.5851, 0.0, 5.08486, 0.0 ]
 }
 tracks/24/type = "value"
 tracks/24/path = NodePath("Skelett_fram/höft/bröst/arm_h/underarm_h/hand_h:position")
@@ -735,7 +735,7 @@ tracks/25/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 90.0, 90.0, 90.0, 90.0, 90.0 ]
+"values": [ 90.0, 90.0, 90.0, 117.063, 90.0 ]
 }
 tracks/26/type = "value"
 tracks/26/path = NodePath("Skelett_fram/höft/lår_h:position")
@@ -759,7 +759,7 @@ tracks/27/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 2.04164, -7.14403, 2.04164, 0.234757, 2.04164 ]
+"values": [ 2.04164, -24.0931, 2.04164, 0.234757, 2.04164 ]
 }
 tracks/28/type = "value"
 tracks/28/path = NodePath("Skelett_fram/höft/lår_h/vad_h/fot_h:position")
@@ -783,7 +783,7 @@ tracks/29/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 51.935, 20.4509, 51.935, 56.4237, 51.935 ]
+"values": [ 51.935, -1.89907, 51.935, 56.4237, 51.935 ]
 }
 tracks/30/type = "value"
 tracks/30/path = NodePath("Skelett_fram/höft/lår_v/vad_v/fot_v:position")
@@ -807,7 +807,7 @@ tracks/31/keys = {
 "times": PoolRealArray( 0, 0.2, 0.4, 0.6, 0.8 ),
 "transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
 "update": 0,
-"values": [ 134.392, 132.673, 134.392, 168.206, 134.392 ]
+"values": [ 134.392, 132.673, 134.392, 184.479, 134.392 ]
 }
 tracks/32/type = "value"
 tracks/32/path = NodePath("polygons_fram:visible")
@@ -2683,7 +2683,6 @@ rest = Transform2D( 0.707107, 0.707107, -0.707107, 0.707107, -4, 98 )
 default_length = 20.0
 
 [node name="Skelett_fram" type="Skeleton2D" parent="."]
-visible = false
 
 [node name="höft" type="Bone2D" parent="Skelett_fram"]
 position = Vector2( 38, 131 )
@@ -2729,12 +2728,12 @@ default_length = 30.0
 
 [node name="lår_h" type="Bone2D" parent="Skelett_fram/höft"]
 position = Vector2( 26, 18 )
-rotation = 0.0356334
+rotation = 0.0356333
 rest = Transform2D( 0.999365, 0.0356259, -0.0356259, 0.999365, 26, 18 )
 
 [node name="vad_h" type="Bone2D" parent="Skelett_fram/höft/lår_h"]
 position = Vector2( -0.862389, 88.0866 )
-rotation = -0.0459766
+rotation = -0.0459767
 rest = Transform2D( 0.998943, -0.0459605, 0.0459605, 0.998943, -0.862389, 88.0866 )
 
 [node name="fot_h" type="Bone2D" parent="Skelett_fram/höft/lår_h/vad_h"]
@@ -2746,7 +2745,6 @@ default_length = 20.0
 [node name="lår_v" type="Bone2D" parent="Skelett_fram/höft"]
 position = Vector2( -31, 19 )
 rotation = 0.105715
-scale = Vector2( 1, 1 )
 rest = Transform2D( 0.994417, 0.105518, -0.105518, 0.994417, -31, 19 )
 
 [node name="vad_v" type="Bone2D" parent="Skelett_fram/höft/lår_v"]
